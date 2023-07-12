@@ -1,7 +1,7 @@
 hi i am test3 file
 new data
 
-new Author added  // hello there
+new  added  // hello there
 hiiiiiiiiiiiiiiiiiii
 i am in office
 
@@ -22,8 +22,6 @@ f
 sf
 sd
 fsd
-fds
-f
 sdf
 ds
 f
